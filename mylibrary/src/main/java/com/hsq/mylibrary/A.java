@@ -14,7 +14,7 @@ public class A extends Activity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         TextView textView = new TextView(this);
-        textView.setText("sfd水电费sdfdfsadfsdd ");
+        textView.setText("sfd水电费sdfdfsdfgadfsdd ");
         setContentView(textView);
     }
 }
